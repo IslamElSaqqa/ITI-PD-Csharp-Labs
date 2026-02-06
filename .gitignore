@@ -13,8 +13,21 @@ Delegates_Lab/Delegates_Lab/bin
 Delegates_Lab/Delegates_Lab/obj
 Delegates_Lab/Delegates_Lab/Delegates_Lab.csproj
 Delegates_Lab/Delegates_Lab.slnx
-
-
+WinForm_Lab1_CompanyRevenue/.vs
+WinForm_Lab1_CompanyRevenue/WinForm_Lab1_CompanyRevenue.slnx
+WinForm_Lab1_CompanyRevenue/WinForm_Lab1_CompanyRevenue/bin
+WinForm_Lab1_CompanyRevenue/WinForm_Lab1_CompanyRevenue/obj
+.gitignore
+WinForm_Lab1_CompanyRevenue/WinForm_Lab1_CompanyRevenue/WinForm_Lab1_CompanyRevenue.csproj
+WinForm_Lab1_CompanyRevenue/WinForm_Lab1_CompanyRevenue/WinForm_Lab1_CompanyRevenue.csproj.user
+WinForm_Lab1_CompanyRevenue/WinForm_Lab1_CompanyRevenue/Form1.resx
+WinFormsLab_Part2/.vs
+WinFormsLab_Part2/WinFormsLab_Part2.slnx
+WinFormsLab_Part2/WinFormsLab_Part2/bin
+WinFormsLab_Part2/WinFormsLab_Part2/obj
+WinFormsLab_Part2/WinFormsLab_Part2/Form1.resx
+WinFormsLab_Part2/WinFormsLab_Part2/WinFormsLab_Part2.csproj
+WinFormsLab_Part2/WinFormsLab_Part2/WinFormsLab_Part2.csproj.user
 
 
 
